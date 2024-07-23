@@ -1,7 +1,12 @@
 STEPS TO INSTALL VS-CODE
+
 Name : Nalin Kumar Srivastava
+
 PRN :23070123157
+
 Branch and Division : ENTC- B3
+
+
 1.	Click on the site https://code.visualstudio.com and then click on download for windows.
    
    ![image](https://github.com/user-attachments/assets/eb9520c6-bc6a-494a-abe7-75522959bd79)
