@@ -77,6 +77,23 @@ OUTPUT OF THE CODE :-
 
 
 
+EXPERIMENT 3
+
+Aim:- To study and implement Operators in C++
+
+Code:-
+
+![image](https://github.com/user-attachments/assets/c8a7d231-24e6-4a18-99d4-cbf16b1151d3)
+
+![image](https://github.com/user-attachments/assets/d68d8f3f-a9ac-4dce-b9cd-25d51a0986ea)
+
+
+OUTPUT:-
+
+
+![image](https://github.com/user-attachments/assets/fde00fb8-ca0b-44d3-a571-ba4316529013)
+
+
 
 
 
