@@ -1,4 +1,4 @@
-STEPS TO INSTALL VS-CODE
+STEPS TO INSTALL VS-CODE,(Hello World and Calculator Program)
 
 Name : Nalin Kumar Srivastava
 
@@ -61,15 +61,16 @@ Branch and Division : ENTC- B3
 
 
 
-EXP 1 : Write a C++ program to print Hello world , adds two numbers, find the average of the two numbers, tells the number whether the number is odd or even and finds out whether the year is a leap year or not .
+Experiment 1 
 
+ Aim:- Write a C++ program to print Hello world , adds two numbers, find the average of the two numbers, tells the number whether the number is odd or even and finds out whether the year is a leap year or not .
 
 CODE :-
 
 ![image](https://github.com/user-attachments/assets/36f3561b-6d93-4de4-8a25-e20abf2831eb)
 
 
-OUTPUT OF THE FOLLOWING CODE :-
+OUTPUT OF THE CODE :-
 
 
 ![image](https://github.com/user-attachments/assets/20eb6fcb-b435-40c9-b5d0-03be5c18de44)
